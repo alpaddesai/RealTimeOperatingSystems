@@ -1,4 +1,4 @@
-# CodingRTOS
+# Coding RTOS
 
 The project provides introduction to coding RTOS 
 
