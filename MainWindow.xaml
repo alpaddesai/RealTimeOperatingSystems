@@ -5,8 +5,30 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:CodingRTOS"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="450" Width="1006" MaxWidth="1006" MaxHeight="450">
     <Grid>
-
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="Black"/>
+                <GradientStop Color="{DynamicResource {x:Static SystemColors.ActiveCaptionColorKey}}" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Button Content="Scheduling" HorizontalAlignment="Left" Margin="19,135,0,0" VerticalAlignment="Top" Height="52" Width="199" Click="Button_Click_1"/>
+        <Button Content="Control of Shared Resources" HorizontalAlignment="Left" Margin="20,243,0,0" VerticalAlignment="Top" Height="52" Width="199" Click="Button_Click_2"/>
+        <Button Content="Reliability" HorizontalAlignment="Left" Margin="20,346,0,0" VerticalAlignment="Top" Height="52" Width="199" Click="Button_Click_3"/>
+        <Button Content="Task Based SW" HorizontalAlignment="Left" Margin="24,23,0,0" VerticalAlignment="Top" Height="57" Width="193" Click="Button_Click"/>
+        <Button Content="Shared Resources &amp; Contention Issues" HorizontalAlignment="Left" Margin="288,24,0,0" VerticalAlignment="Top" Height="53" Width="209" Click="Button_Click_4"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="288,134,0,0" VerticalAlignment="Top" Height="53" Width="203"/>
+        <Button Content="Memory Usage and Management" HorizontalAlignment="Left" Margin="287,249,0,0" VerticalAlignment="Top" Height="53" Width="203" Click="Button_Click_6"/>
+        <Button Content="Intertask Communication" HorizontalAlignment="Left" Margin="288,134,0,0" VerticalAlignment="Top" Height="53" Width="203" Click="Button_Click_5"/>
+        <Button Content="Epilogue" HorizontalAlignment="Left" Margin="285,347,0,0" VerticalAlignment="Top" Height="53" Width="203" Click="Button_Click_7"/>
+        <Button Content="Multiprocessor System" HorizontalAlignment="Left" Margin="551,23,0,0" VerticalAlignment="Top" Height="47" Width="185" Click="Button_Click_8"/>
+        <Button Content="Distributed System" HorizontalAlignment="Left" Margin="553,133,0,0" VerticalAlignment="Top" Height="54" Width="185" Click="Button_Click_9"/>
+        <Button Content="Scheduling Policies" HorizontalAlignment="Left" Margin="555,251,0,0" VerticalAlignment="Top" Height="50" Width="179" Click="Button_Click_10"/>
+        <Button Content="Interrupt Processing" HorizontalAlignment="Left" Margin="553,346,0,0" VerticalAlignment="Top" Height="48" Width="186" Click="Button_Click_11"/>
+        <Button Content="Operating Systems" HorizontalAlignment="Left" Margin="784,22,0,0" VerticalAlignment="Top" Height="46" Width="186" Click="Button_Click_12"/>
+        <Button Content="Performance &amp; Benchmarking" HorizontalAlignment="Left" Margin="785,133,0,0" VerticalAlignment="Top" Height="47" Width="190" Click="Button_Click_13"/>
+        <Button Content="Testing Multitasking SW" HorizontalAlignment="Left" Margin="786,253,0,0" VerticalAlignment="Top" Height="50" Width="192" Click="Button_Click_14"/>
+        <Button Content="FreeRTOS" HorizontalAlignment="Left" Margin="792,348,0,0" VerticalAlignment="Top" Height="47" Width="190" Click="Button_Click_15"/>
     </Grid>
 </Window>
