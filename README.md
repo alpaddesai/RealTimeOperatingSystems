@@ -1,6 +1,6 @@
 # Coding RTOS
 
-The project provides introduction to coding RTOS. The project is in progress.
+The project provides introduction to coding RTOS. The project is TBD
 
 All images are custom by Alpa D. Desai or have references
 
