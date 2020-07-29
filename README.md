@@ -12,5 +12,9 @@ Please reference https://github.com/alpaddesai/CodingRTOS/releases  for details.
 ## uVision
 ![image](uVision.png)
 
+Purchase the hardware or license to FVP fast models either option, experienced professionals.
+
+
+
 
 
