@@ -15,9 +15,7 @@ Please reference https://github.com/alpaddesai/CodingRTOS/releases  for details.
 ## STM32Cube
 ![image](STM32Cube.png)
 
-Yet to take the graduate level course, it's not on my transcript.
-
-Read error, need to simulate the platform (memories, interfaces, controllers) Purchase the hardware or license to FVP fast models either option, experienced professionals.
+Read error, need to simulate the platform (memories, interfaces, controllers) Purchase the hardware or license to FVP fast models either option - for experienced professionals.
 
 
 
