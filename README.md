@@ -18,7 +18,7 @@ Please reference https://github.com/alpaddesai/CodingRTOS/releases  for details.
 Read error, need to simulate the platform (memories, interfaces, controllers) Purchase the hardware or license to FVP fast models either option - for experienced professionals.
 
 ## C++ Language Fundamentals
-![image] CplusplusDVCertificate.jpg)
+![image] (CplusplusDVCertificate.jpg)
 
 
 
