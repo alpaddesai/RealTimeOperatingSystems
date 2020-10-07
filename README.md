@@ -20,5 +20,7 @@ Read error, need to simulate the platform (memories, interfaces, controllers) Pu
 ## C++ Language Fundamentals
 ![image](CplusplusDVCertificate.jpg)
 
+## RTOS
+![image](RTOS.jpg)
 
 
