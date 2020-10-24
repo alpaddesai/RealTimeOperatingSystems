@@ -29,3 +29,5 @@ Read error, need to simulate the platform (memories, interfaces, controllers) Pu
 ## Page Tables
 ![image](PageTables.jpg)
 
+## Operating Systems
+![image](OperatingSystem.jpg)
