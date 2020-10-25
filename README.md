@@ -31,3 +31,6 @@ Read error, need to simulate the platform (memories, interfaces, controllers) Pu
 
 ## Operating Systems
 ![image](OperatingSystem.jpg)
+
+## Synchronization
+![image](Synchronization.jpg)
