@@ -34,3 +34,6 @@ Read error, need to simulate the platform (memories, interfaces, controllers) Pu
 
 ## Synchronization
 ![image](Synchronization.jpg)
+
+## RTOS certification 
+![image](certification.jpg)
