@@ -38,6 +38,4 @@ Read error, need to simulate the platform (memories, interfaces, controllers) Pu
 ## File Systems
 ![image](certification.jpg)
 
-![image](USCopyrightCertificateofRegistration.png)
-
 Additional reference : https://github.com/alpaddesai/NewProductDevelopmentProcesses
