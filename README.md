@@ -32,6 +32,9 @@ Please reference https://github.com/alpaddesai/CodingRTOS/releases  for details.
 
 ## RTOS Certificate
 ##### basic knowledge - incomplete -queue. 
+
+## Programming a board
+![image](ProgrammingBoard.jpg)
 ![image](RTOS_Certificate.jpg)
 
 
