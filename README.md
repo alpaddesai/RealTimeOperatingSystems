@@ -27,6 +27,9 @@ Please reference https://github.com/alpaddesai/CodingRTOS/releases  for details.
 ## Synchronization
 ![image](Synchronization.jpg)
 
+## RTOS Certificate
+![image](RTOS_Certificate.jpg)
+
 ## File Systems
 ![image](certification.jpg)
 
