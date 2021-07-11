@@ -27,11 +27,13 @@ Please reference https://github.com/alpaddesai/CodingRTOS/releases  for details.
 ## Synchronization
 ![image](Synchronization.jpg)
 
-## RTOS Certificate
-### basic knowledge - incomplete -queue. 
-![image](RTOS_Certificate.jpg)
-
 ## File Systems
 ![image](certification.jpg)
+
+## RTOS Certificate
+##### basic knowledge - incomplete -queue. 
+![image](RTOS_Certificate.jpg)
+
+
 
 Additional reference : https://github.com/alpaddesai/NewProductDevelopmentProcesses
