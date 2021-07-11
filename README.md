@@ -28,6 +28,7 @@ Please reference https://github.com/alpaddesai/CodingRTOS/releases  for details.
 ![image](Synchronization.jpg)
 
 ## RTOS Certificate
+### basic knowledge - incomplete -queue. 
 ![image](RTOS_Certificate.jpg)
 
 ## File Systems
