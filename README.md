@@ -40,6 +40,6 @@ Please reference https://github.com/alpaddesai/CodingRTOS/releases  for details.
 
 ![image](USCopyrightCertificate.png)
 
-![imaged](Ethics.jpg)
+![image](Ethics.jpg)
 
 Additional reference :https://github.com/alpaddesai/EngineeringProjectManagement
