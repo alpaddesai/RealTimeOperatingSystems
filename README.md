@@ -45,4 +45,4 @@ Please reference https://github.com/alpaddesai/CodingRTOS/releases  for details.
 
 ![image](Ethics.jpg)
 
-Additional reference https://github.com/alpaddesai/SoftwareEngineering2022
+Additional reference https://github.com/alpaddesai/SoftwareEngineering
