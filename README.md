@@ -38,9 +38,6 @@ Please reference https://github.com/alpaddesai/CodingRTOS/releases  for details.
 ## Programming a board
 ![image](ProgrammingBoard.jpg)
 
-## CFA exam
-![image](CFAExam.jpg)
-
 ![image](USCopyrightCertificate.png)
 
 ![image](Ethics.jpg)
