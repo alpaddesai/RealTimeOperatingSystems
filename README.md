@@ -42,4 +42,4 @@ Please reference https://github.com/alpaddesai/CodingRTOS/releases  for details.
 
 ![image](Ethics.jpg)
 
-Additional reference https://github.com/alpaddesai/SoftwareEngineering
+Additional reference https://github.com/alpaddesai/EmbeddedDesign and https://github.com/alpaddesai/SoftwareEngineering
