@@ -11,6 +11,7 @@ Please reference https://github.com/alpaddesai/CodingRTOS/releases  for details.
 
 ## C++ Language Fundamentals
 ![image](CplusplusDVCertificate.jpg)
+![image](CertificateCplusplus.png)
 
 ## RTOS
 ![image](RTOS.jpg)
