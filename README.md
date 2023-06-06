@@ -4,15 +4,9 @@ The project provides introduction to coding RTOS. The project is TBD
 
 All images are custom by Alpa D. Desai or have references
 
-## RTOS 
-![image](RTOS.jpg)
-
 ## C++ Language Fundamentals
 ![image](CplusplusDVCertificate.jpg)
 ![image](CertificateCplusplus.png)
-
-## RTOS
-![image](RTOS.jpg)
 
 ## Interrupts
 ![image](RTOSImage.jpg)
