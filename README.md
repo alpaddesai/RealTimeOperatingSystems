@@ -8,9 +8,6 @@ All images are custom by Alpa D. Desai or have references
 ![image](CplusplusDVCertificate.jpg)
 ![image](CertificateCplusplus.png)
 
-## Interrupts
-![image](RTOSImage.jpg)
-
 ## Page Tables
 ![image](PageTables.jpg)
 
