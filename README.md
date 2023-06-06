@@ -4,6 +4,9 @@ The project provides introduction to coding RTOS. The project is TBD
 
 All images are custom by Alpa D. Desai or have references
 
+## Firmware quiz
+![image](FirmwareQuiz.jpg)
+
 ## C++ Language Fundamentals
 ![image](CplusplusDVCertificate.jpg)
 ![image](CertificateCplusplus.png)
