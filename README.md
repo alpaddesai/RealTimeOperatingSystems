@@ -8,12 +8,10 @@ All images are custom by Alpa D. Desai or have references
 ![image](CplusplusDVCertificate.jpg)
 ![image](CertificateCplusplus.png)
 
-![image](RTOS_Certificate.jpg)
-
 ## Programming a STM32F407 DISCOVERY board
 ![image](ProgrammingBoard.jpg)
 
-## Reference : Udemy certificate: Mastering RTOS: Hands on FreeRTOS and STM32Fx with Debugging
+### Reference : Udemy certificate: Mastering RTOS: Hands on FreeRTOS and STM32Fx with Debugging
 
 ![image](USCopyrightCertificate.png)
 
