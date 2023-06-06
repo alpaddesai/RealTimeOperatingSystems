@@ -8,17 +8,6 @@ All images are custom by Alpa D. Desai or have references
 ![image](CplusplusDVCertificate.jpg)
 ![image](CertificateCplusplus.png)
 
-## Page Tables
-![image](PageTables.jpg)
-
-## Operating Systems
-![image](OperatingSystem.jpg)
-
-## Synchronization
-![image](Synchronization.jpg)
-
-## File Systems
-![image](certification.jpg)
 
 ## RTOS Certificate
 ##### basic knowledge - incomplete -queue. 
