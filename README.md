@@ -7,6 +7,9 @@ All images are custom by Alpa D. Desai or have references
 ## Firmware quiz
 ![image](FirmwareQuiz.jpg)
 
+## Operating Systems
+![image](OperatingSystems.JPG)
+
 ## C++ Language Fundamentals
 ![image](CplusplusDVCertificate.jpg)
 ![image](CertificateCplusplus.png)
