@@ -14,7 +14,7 @@ All images are custom by Alpa D. Desai or have references
 ![image](CplusplusDVCertificate.jpg)
 ![image](CertificateCplusplus.png)
 
-## Programming a STM32F407 DISCOVERY board
+## Programming a STM32F4xx DISCOVERY board
 ![image](ProgrammingBoard.jpg)
 
 ![image](USCopyrightCertificate.png)
