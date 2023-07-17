@@ -17,8 +17,6 @@ All images are custom by Alpa D. Desai or have references
 ## Programming a STM32F407 DISCOVERY board
 ![image](ProgrammingBoard.jpg)
 
-### Reference : Udemy certificate: Mastering RTOS: Hands on FreeRTOS and STM32Fx with Debugging
-
 ![image](USCopyrightCertificate.png)
 
 ![image](Ethics.jpg)
