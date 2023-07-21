@@ -20,6 +20,8 @@ All images are custom by Alpa D. Desai or have references
 ## Programming a STM32F4xx DISCOVERY board, STM32CubeIDE
 ![image](LEDBlinkyTasks.jpg)
 
+![image](Certification.jpg)
+
 ![image](USCopyrightCertificate.png)
 
 ![image](Ethics.jpg)
