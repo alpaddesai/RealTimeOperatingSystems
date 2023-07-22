@@ -22,8 +22,6 @@ All images are custom by Alpa D. Desai or have references
 
 ![image](IntroductionRTOS.jpg)
 
-![image](IntroRTOS.jpg)
-
 ![image](Certification.jpg)
 
 ![image](USCopyrightCertificate.png)
