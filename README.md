@@ -17,10 +17,10 @@ All images are custom by Alpa D. Desai or have references
 ## Programming a STM32F4xx DISCOVERY board. uKeilVision
 ![image](Semaphores.jpg)
 
-![image](IntroRTOS.jpg)
-
 ## Programming a STM32F4xx DISCOVERY board, STM32CubeIDE
 ![image](LEDBlinkyTasks.jpg)
+
+![image](IntroRTOS.jpg)
 
 ![image](Certification.jpg)
 
