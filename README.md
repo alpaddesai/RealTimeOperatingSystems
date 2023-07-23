@@ -24,6 +24,8 @@ All images are custom by Alpa D. Desai or have references
 
 ![image](Certification.jpg)
 
+[!image](RTOS.jpg)
+
 ![image](USCopyrightCertificate.png)
 
 ![image](Ethics.jpg)
