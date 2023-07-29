@@ -28,6 +28,8 @@ All images are custom by Alpa D. Desai or have references
 
 ![image](RTOS.jpg)
 
+![image](operatingSystems.jpg)
+
 ![image](USCopyrightCertificate.png)
 
 ![image](Ethics.jpg)
